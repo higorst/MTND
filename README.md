@@ -15,7 +15,7 @@ O programa deve imprimir para cada palavra de teste ‘S’ se a MTND reconhece 
 
 Exemplo:
 
- - Entrada - 
+Entrada - 
  
 0 1 2 3 4
 a b
@@ -37,7 +37,7 @@ A B *
 4
 * ab ba abb aab aabb
 
- - Saída -
+Saída -
  
 N
 S
